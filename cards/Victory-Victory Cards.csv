@@ -1,0 +1,9 @@
+Name,Action,VP,Ammo cost,COUNT
+Dolor Sit,+1 Recruit,3,2,3
+Lorem Ipsum,+1 Ammo,3,2,3
+Lorem Ipsum,,3,2,6
+Dolor Sit,,5,3,6
+Dolor Sit,+1 Draw,5,3,6
+Dolor Sit,+1 Draw +1 Recruit,9,4,4
+Dolor Sit,+1 Ammo,9,4,4
+Lorem Ipsum,Attack!,9,4,4

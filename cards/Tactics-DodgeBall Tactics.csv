@@ -1,0 +1,14 @@
+Name,Action,VP,$$$,COUNT,Start?
+Dolor Sit,,3,1,2,0
+Lorem Ipsum,"+2 Draw, +1 Bench, Attack!",2,3,3,0
+Lorem Ipsum,,2,2,2,0
+Dolor Sit,+1 Bench,0,2,4,1
+Dolor Sit,"+3 Draw, +1 Action, Attack!",0,4,3,0
+Lorem Ipsum,"+2 Draw, +1 Bench",0,3,3,0
+Lorem Ipsum,"+1 Draw, +1 Action",0,2,3,0
+Dolor Sit,+1 Ammo,0,4,4,1
+Dolor Sit,"+2 Draw, Attack,",0,4,4,1
+Lorem Ipsum,"+1 Draw, +1 Action, +1 Bench",0,4,2,0
+Lorem Ipsum,"+4 Draw, Everyone Draw",0,4,2,0
+Lorem Ipsum,+2 Draw,0,4,4,1
+Lorem Ipsum,+2 Draw,1,2,2,0
