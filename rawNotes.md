@@ -1,5 +1,29 @@
 
+
+
+#Old notes
+
+coaches - must pay number of ammo to be a part of that auction. When won, they go face up, right on the top of your deck at the end of your end of turn.
+>coaches are now victory cards, and when discarded, go to your "trophy collection" stack, giving ongoing effects similar to players.
+
+---
+##Buying
+Either buy for price on upper right plus one token or start an auction at any price. 
+>edit 9/24/14: might add this in a future test
+>edit 9/24/14: Actually doesn't seem to add much, no need for it.
+
+VP cards have tasks. Owner of card in have can bench card and get a bonus for completing challenge.  Ie. knock out one player. Or for big point cards. Knock out 2 players in one turn. 
+
+Friendly lowest one enemy highest five 
+Attack with four to bring it up to five
+Enemy response playing 2
+Attacker matches 2 in wins giving one of the tokens to the player that just lost the card. If you would've lost at that point he would've still had to get rid of his two as a cost if protecting yourself.  but the attacker that bailed  could grab all of the stuff he put in and keep it
+Never mind the attacker loses everything also he just has to give one token to the person he attacked
+
+---
+
 Dodgeball dice building game might work as a minimalist card game
+
 three cards are put out. Players bid on them. once all players have had a turn to do their thing ala power grid, a round of dodgeball. repeat x times.
 possible event cards, eg. coach guilt, player must start auction on the weakest kid, etc.
 maybe numbered cards. can be used as money for bidding or addition to dodgeball round
@@ -13,38 +37,12 @@ Extra cards will also be dealt, things that can fuck other players up, or borrow
  
 ---
 
+
+
 Players place two cards face down on table, all at once, everyone flips thier first. Lowest is out of the auction. Cards are resolved starting with who's turn it is, clockwise, then the second card. Cards are discarded after purchase. everyone is dealt two cards, then move on.
 Everyone plays a card face down, everyone reveals at the same time, resolving effects starting with current player and going clockwise. Whatever the highest value is, is the barrier to the second round. In clockwise order, players can decide if they want to get up to that value, using as many ones as they need, or a single 2. The second bidding round starts, clockwise from current player, players decide if they want to add more. They can play as many ones as they need, or a single two. You cannot match what the current price is, you must either beat it or pass. Whoever has the highest bid at the end get the card. Players are dealt one card, plus another card for those that played in the second bidding round.
 
 
 
 ---
-
-beginning of turn, draw power level in cards/tokens
-
-end of turn, discard down to power level
-
-power is minimum 2
-
-coaches - must pay number of ammo to be a part of that auction. When won, they go face up, right on the top of your deck at the end of your end of turn.
-
-
----
-
-
-- "High Society" style auctions
-- Building balanced teams
-- Scrambling for limited ball tokens
-
-Whichever of the four values is the lowest total, is the team's "power".
-
-Turn:
-	1. Draw according to power
-	2. Take actions/attacks
-	3. Buy phase
-	4. Discard down to power level
-
-Attack - spend ball tokens equal to the highest stat of an enemy cad. Opponant player recieves one of the tokens, and discards the card.
-
-If there are zero ball tokens in the common supply at the start of a player's turn, everyone must return all of their tokens to the supply, then play resumes.
 
