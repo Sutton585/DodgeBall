@@ -1,4 +1,4 @@
-#Dodgeball
+#Dodgeball v2
 ##Core Features:
 - "High Society" style auctions
 - Building balanced teams
@@ -15,6 +15,7 @@
 	- At any point, if there are zero tokens unclaimed, everyone must immediately return all of their tokens, they are no longer claimed by anyone.
 - Shuffle each individual stack of victory cards, and then remove
 	- 3 from each stack (4 players)
+		- 2 in test
 	- 5 from each stack (2-3 players)
 - On their first turn, each player gets 5 cards from their deck.
 
