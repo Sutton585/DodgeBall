@@ -26,14 +26,14 @@ The cost of victory cards is not great. **I'm thinking I should reduce them all 
 ##Playtest Notes
 ###9/22/14
 - 4 Players
-- Sean, Ed, Girl, Ian
+- Sean, Ed, Girl, X
 - ~90 before I pulled the plug
 
-This playtest was pretty bad. Ian's constant attitude and neediness to hold up the game was just a bummer. He had a bunch of really bad suggestions that I didn't even think where worth noting. Claimed to be an expert on deck builders, but judging by his examples, he doesn't know what he's talking about at all.
+This playtest was pretty bad. X's constant attitude issues and neediness to hold up the game was just a bummer. He had a bunch of really bad suggestions that I didn't even think where worth noting. Claimed to be an expert on deck builders, but judging by his examples, he doesn't know what he's talking about at all.
 
-I don't think anyone had fun, it was the Ian Show, and we were all just sort of awkwardly stuck there until I just said "enough".
+I don't think anyone had fun, it was the X Show, and we were all just sort of awkwardly stuck there until I just said "enough".
 
-Here are the three thoughts that were not garbage:
+Here are the three thoughts that were worth noting:
 
 - minimum power two-player, should change to some sort of base power 1 or 2
 - instead of draws as ammo, ammo is base 1 per turn, and you can use modifiers for the rest
@@ -80,7 +80,7 @@ My first idea was to do parallel iterations, one with a barebones game more simi
 
 I want to meet halfway, so I'm thinking of really coming up with a market system more related to where it started, Power Grid and Copy Cat. This lets me get back to the roots of the game, and potentially solve some thematic issues that I haven't thought about in a while. One of which is that originally this was supposed to be sort of a faux-cooperative game (at least thematically). The players where all fighting against a lineup of enemy players. This would make more sense to me, scoring points for knocking out players on the line-up, and allow a more Copy Cat-ish conveyor-belt market. Thematically it could be the players opposing your team, and you are recruiting them to your side.
 
-One of the earliest concepts for this game also included abilities that where specific to certain things like having team speed at at certain level, or whatever. This would allow things like building a team that seemed to have it's own personality. Intellegence was one of the stats at that point, so you could possibly have a team full of nerds, and have them do things like cobble together a dodgeball cannon out of gym equipment. I can actually imagine having things sort of like this in the form of event or action cards.
+One of the earliest concepts for this game also included abilities that where specific to certain things like having team speed at at certain level, or whatever. This would allow things like building a team that seemed to have it's own personality. Intelligence was one of the stats at that point, so you could possibly have a team full of nerds, and have them do things like cobble together a dodgeball cannon out of gym equipment. I can actually imagine having things sort of like this in the form of event or action cards.
 
 Maybe event cards can be struggles that have to be overcome when you buy past them in the market like the bad cards in Copy Cat. This could actually involve cooperation/aggression with other players to manage who has to deal with the issues when.
 
