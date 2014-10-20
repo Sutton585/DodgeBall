@@ -46,7 +46,7 @@ Here are the three thoughts that were worth noting:
 - Justin, Kay, Paulie, and Awkward Guy with Hair
 - ~90
 
-#Thoughts
+###Thoughts
 - Is it always optimal to start your turn with an auction? Should it just be set as your first action?
 - Isn't it always good to use your tactics at the beginning too? Anything that can get you draws?
 - The game might play easier with a more structured turn order, like that.
@@ -55,12 +55,12 @@ Here are the three thoughts that were worth noting:
 - Players seem to like the idea of making each stat relevant to strategy in the game. (Ex. one stat is draw power, one is how many tactics you can play, etc..)
 
 
-#Changes Implemented
+###Changes Implemented
 - Instead of two "bench" stacks, there's now just the one. If a victory card is showing, you get that bonus.
 - We treated all power bonuses as +1 power, even if they said +2 power. And even then, they were OP. If you can get a few of those, you essentially win.
 - *At about 60% through the game* I removed the element of defending against attacks, because the only thing that could stop the landslide victory of a player was having him get attacked. But since he was so far ahead, he'd be able to defend all day, leaving the attacker without cards.
 
-#Changes to Implement
+###Changes to Implement
 - The bar chart is off on the 0421 card and on Mervin
 - Clean up the mess from the VP cards. They cost a lot, rely on limited tokens, which allow gaming, and are worth a TON of points.
 	- Nobody cares about the point value on the character and tactic chards if they are seeing people scoop up 8 point cards easily.
