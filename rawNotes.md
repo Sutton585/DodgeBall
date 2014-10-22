@@ -46,3 +46,13 @@ Everyone plays a card face down, everyone reveals at the same time, resolving ef
 
 ---
 
+##Version 3 Notes
+
+###Event Cards
+we can target specific players for effects by having a list of the colors, and the player who's color is listed first is who it targets. For example, in a 3 player game there might be a blue, red, and black player. A card may have the following:
+
+- [Yellow, Red, Black, Blue] Player must discard two cards, if this is resolved on their own turn, then they may choose who must discard.
+
+This would mean that the Red Player is the one being targeted, because there is no yellow player, and his color was next. Probably don't even need to list all five colors, you can leave the last one out. Whatever's last on the list isn't going to win anyway, and it's an easy way to simplify the look.
+
+
