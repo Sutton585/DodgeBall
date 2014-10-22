@@ -56,3 +56,5 @@ we can target specific players for effects by having a list of the colors, and t
 This would mean that the Red Player is the one being targeted, because there is no yellow player, and his color was next. Probably don't even need to list all five colors, you can leave the last one out. Whatever's last on the list isn't going to win anyway, and it's an easy way to simplify the look.
 
 
+Hail Mary
+She hangs out in the back row of the "market", every time she moves, she takes out a character or something. It's har to get to her back there. Once she has reached the end of the back row, she goes on top of the deck, she'll be back out in no time. You immediately have a problem until you can deal with her.
